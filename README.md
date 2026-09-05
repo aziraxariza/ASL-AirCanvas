@@ -1,4 +1,4 @@
-# 🖐 ASL Recognition System with Air Canvas
+# ASL Recognition System with Air Canvas
 
 A real-time American Sign Language (ASL) recognition system built using Computer Vision and Deep Learning.
 
